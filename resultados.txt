@@ -1,0 +1,7 @@
+
+RESULTADOS ACTIVIDAD NODE
+
+Nombre: Alexandra
+Edad: 32
+Precio: 10000
+IVA: 1900
