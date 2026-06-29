@@ -1,0 +1,16 @@
+{
+  "name": "actividad_2_5_node",
+  "version": "1.0.0",
+  "description": "Actividad 2.5 de Node.js para Programación Web",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "programacion-web"
+  ],
+  "author": "Alexandra",
+  "license": "ISC"
+}
